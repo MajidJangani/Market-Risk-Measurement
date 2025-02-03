@@ -1,7 +1,7 @@
 # Market Risk Measurement Of Equity Portfolio 
 
 ## Live Project
-View the complete project analysis and implementation at [GitHub Pages](https://majidjangani.github.io/https://majidjangani.github.io/Market-Risk-Measurement/)
+View the complete project analysis and implementation at [GitHub Pages](https://majidjangani.github.io/Market-Risk-Measurement/)
 
 ## Objectives
 - **Build a diversified equity portfolio**: Create a portfolio of stocks from various industries using historical price data.
