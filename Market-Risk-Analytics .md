@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Market Risk Analytics For Equity Portfolio"
+permalink: /Market-Risk-Analytics
+---
 # Project Overview:
 This project focuses on constructing an optimized equity portfolio and assessing its risk using Value at Risk (VaR) and Conditional Value at Risk (CVaR). It employs historical data and Monte Carlo simulations to evaluate portfolio performance under normal and extreme market conditions. The findings provide insights into risk management strategies, aligning with Basel regulatory considerations.
 
